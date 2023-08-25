@@ -1,2 +1,2 @@
-CALCULATOR
-![images](https://github.com/sglkartik23/Calculator/assets/143067112/169fb9e3-c961-4022-bcbc-4aa8817f69c6)
+CALCULATOR/CALSII
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3471475-Calculator-GIF&psig=AOvVaw0lCFSK04-GJI7HD3c-M4XI&ust=1693040597988000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjrqdu594ADFQAAAAAdAAAAABAE
