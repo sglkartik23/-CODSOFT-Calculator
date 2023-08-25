@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Itim', cursive;
+    }
+    body{
+        width: 110%;
+        height: 120vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(45deg, #89ABE3,#89ABE3);
+    }
+    .calculator{
+        border: 3px solid #fcfcfc;
+        padding: 25px;
+        border-radius: 20px;
+        align-items: center;
+        align-items: center;
+        background: #8AAAE5;
+        box-shadow: 0px 5px 15px rgba(223, 1, 1, 0.5);
+    
+    }    
+    input{
+        width: 320px;
+        border: none;
+        padding: 24px;
+        margin: 10px;
+        background: #101820,;
+        box-shadow: 0px 3px 15px rgbs(84, 84, 84, 0.1);
+        font-size: 40px;
+        text-align: right;
+        cursor: pointer;
+        color:  #101820;
+    }
+    input::placeholder{
+        color: #317773,;
+    }
+    button{
+        border: none;
+        width: 60px;
+        height: 60px;
+        margin: 10px;
+        border-radius: 50%;
+        background:#E2D1F9, ;
+        color: #FCEDDA,;
+        font-size: 20px;
+        box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1);
+        cursor: pointer;
+    }
+    .equalBtn{
+        background-color:  #2F3C7E,;
+    }
+    .operator{
+        color:  #2F3C7E;
+    }
